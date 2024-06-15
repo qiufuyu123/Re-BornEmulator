@@ -1,0 +1,237 @@
+,location,value,region
+0,Afghanistan,1459505,as
+1,Azerbaijan,120485,as
+2,Bahrain,16644,as
+3,Bangladesh,2987615,as
+4,Armenia,31640,as
+5,Bhutan,9634,as
+6,Brunei Darussalam,5962,as
+7,Myanmar,910042,as
+8,Cambodia,313156,as
+9,Sri Lanka,297987,as
+10,China,10660034,as
+11,"China, Taiwan Province of China",186643,as
+12,Cyprus,12348,as
+13,Georgia,47758,as
+14,State of Palestine,146578,as
+15,"China, Hong Kong SAR",41409,as
+16,India,23056737,as
+17,Indonesia,4434122,as
+18,Iran (Islamic Republic of),1144658,as
+19,Iraq,1216097,as
+20,Israel,174648,as
+21,Japan,813751,as
+22,Kazakhstan,395288,as
+23,Jordan,243221,as
+24,Dem. People's Rep. of Korea,338531,as
+25,Republic of Korea,287848,as
+26,Kuwait,39901,as
+27,Kyrgyzstan,152434,as
+28,Lao People's Dem. Republic,160515,as
+29,Lebanon,76066,as
+30,"China, Macao SAR",7002,as
+31,Malaysia,507266,as
+32,Maldives,6875,as
+33,Mongolia,67343,as
+34,Oman,79479,as
+35,Nepal,613318,as
+36,Pakistan,6474370,as
+37,Philippines,2500423,as
+38,Timor-Leste,33096,as
+39,Qatar,23932,as
+40,Saudi Arabia,606692,as
+41,Singapore,42560,as
+42,Viet Nam,1418890,as
+43,Syrian Arab Republic,490781,as
+44,Tajikistan,256589,as
+45,Thailand,623992,as
+46,United Arab Emirates,91828,as
+47,Türkiye,1214053,as
+48,Turkmenistan,130653,as
+49,Uzbekistan,755105,as
+50,Yemen,1011668,as
+51,Algeria,895418,af
+52,Angola,1381742,af
+53,Botswana,60190,af
+54,Burundi,443059,af
+55,Cameroon,967736,af
+56,Cabo Verde,9807,af
+57,Central African Republic,243462,af
+58,Chad,779346,af
+59,Comoros,24191,af
+60,Mayotte,10790,af
+61,Congo,182217,af
+62,Dem. Rep. of the Congo,4237354,af
+63,Benin,487458,af
+64,Equatorial Guinea,50317,af
+65,Ethiopia,3964806,af
+66,Eritrea,106263,af
+67,Djibouti,24643,af
+68,Gabon,63760,af
+69,Gambia,89518,af
+70,Ghana,909913,af
+71,Guinea,473390,af
+72,Côte d'Ivoire,959962,af
+73,Kenya,1503360,af
+74,Lesotho,59355,af
+75,Liberia,166979,af
+76,Libya,116411,af
+77,Madagascar,918152,af
+78,Malawi,678962,af
+79,Mali,952503,af
+80,Mauritania,158742,af
+81,Mauritius,13182,af
+82,Morocco,637479,af
+83,Mozambique,1207858,af
+84,Namibia,69215,af
+85,Niger,1216927,af
+86,Nigeria,8109136,af
+87,Guinea-Bissau,64777,af
+88,Réunion,13906,af
+89,Rwanda,409837,af
+90,Saint Helena,39,af
+91,Sao Tome and Principe,6447,af
+92,Senegal,562482,af
+93,Seychelles,1586,af
+94,Sierra Leone,266774,af
+95,Somalia,774627,af
+96,South Africa,1140735,af
+97,Zimbabwe,493840,af
+98,South Sudan,321400,af
+99,Sudan,1566537,af
+100,Western Sahara,9322,af
+101,Eswatini,28356,af
+102,Togo,281959,af
+103,Tunisia,188292,af
+104,Uganda,1729033,af
+105,Egypt,2449346,af
+106,United Republic of Tanzania,2384603,af
+107,Burkina Faso,801037,af
+108,Zambia,694807,af
+109,Albania,28538,eu
+110,Andorra,569,eu
+111,Austria,84132,eu
+112,Belgium,116823,eu
+113,Bosnia and Herzegovina,26279,eu
+114,Bulgaria,55495,eu
+115,Belarus,86154,eu
+116,Croatia,33537,eu
+117,Czechia,99736,eu
+118,Denmark,65003,eu
+119,Estonia,13102,eu
+120,Faroe Islands,787,eu
+121,Finland,47143,eu
+122,France,671363,eu
+123,Germany,755129,eu
+124,Gibraltar,340,eu
+125,Greece,76080,eu
+126,Hungary,104762,eu
+127,Iceland,4553,eu
+128,Ireland,56728,eu
+129,Italy,406243,eu
+130,Kosovo (under UNSC res. 1244),18549,eu
+131,Latvia,15996,eu
+132,Liechtenstein,360,eu
+133,Lithuania,25605,eu
+134,Luxembourg,6724,eu
+135,Malta,4863,eu
+136,Monaco,323,eu
+137,Republic of Moldova,49667,eu
+138,Montenegro,6773,eu
+139,Netherlands,182435,eu
+140,Norway,54464,eu
+141,Poland,423741,eu
+142,Portugal,79465,eu
+143,Romania,214232,eu
+144,Russian Federation,1375609,eu
+145,San Marino,199,eu
+146,Serbia,65195,eu
+147,Slovakia,62451,eu
+148,Slovenia,18520,eu
+149,Spain,351908,eu
+150,Sweden,113685,eu
+151,Switzerland,86100,eu
+152,Ukraine,184455,eu
+153,North Macedonia,19769,eu
+154,United Kingdom,677708,eu
+155,Guernsey,626,eu
+156,Jersey,1167,eu
+157,Isle of Man,720,eu
+158,Antigua and Barbuda,1116,la
+159,Argentina,624859,la
+160,Bahamas,4671,la
+161,Barbados,3011,la
+162,Bolivia (Plurinational State of),263936,la
+163,Brazil,2699785,la
+164,Belize,7236,la
+165,British Virgin Islands,240,la
+166,Cayman Islands,654,la
+167,Chile,226274,la
+168,Colombia,714422,la
+169,Costa Rica,60145,la
+170,Cuba,98937,la
+171,Dominica,964,la
+172,Dominican Republic,200635,la
+173,Ecuador,298524,la
+174,El Salvador,99670,la
+175,Falkland Islands (Malvinas),41,la
+176,French Guiana,7656,la
+177,Grenada,1923,la
+178,Guadeloupe,4589,la
+179,Guatemala,373431,la
+180,Guyana,15943,la
+181,Haiti,267648,la
+182,Honduras,217165,la
+183,Jamaica,32246,la
+184,Martinique,3525,la
+185,Mexico,1857407,la
+186,Montserrat,40,la
+187,Curaçao,2195,la
+188,Aruba,765,la
+189,Sint Maarten (Dutch part),393,la
+190,"Bonaire, Sint Eustatius and Saba",283,la
+191,Nicaragua,138073,la
+192,Panama,76640,la
+193,Paraguay,137368,la
+194,Peru,588886,la
+195,Puerto Rico,26093,la
+196,Saint Barthélemy,91,la
+197,Saint Kitts and Nevis,555,la
+198,Anguilla,145,la
+199,Saint Lucia,2009,la
+200,Saint Martin (French part),440,la
+201,Saint Vincent and the Grenadines,1307,la
+202,Suriname,11086,la
+203,Trinidad and Tobago,17014,la
+204,Turks and Caicos Islands,553,la
+205,United States Virgin Islands,1085,la
+206,Uruguay,35643,la
+207,Venezuela (Bolivarian Republic of),454898,la
+208,Bermuda,469,na
+209,Canada,379615,na
+210,Greenland,781,na
+211,Saint Pierre and Miquelon,43,na
+212,United States of America,3745361,na
+213,American Samoa,740,oc
+214,Australia,301714,oc
+215,Solomon Islands,21398,oc
+216,Cook Islands,272,oc
+217,Fiji,17676,oc
+218,French Polynesia,3817,oc
+219,Kiribati,3495,oc
+220,Guam,2823,oc
+221,Nauru,333,oc
+222,New Caledonia,4079,oc
+223,Vanuatu,9531,oc
+224,New Zealand,64118,oc
+225,Niue,27,oc
+226,Northern Mariana Islands,610,oc
+227,Micronesia (Fed. States of),2392,oc
+228,Marshall Islands,762,oc
+229,Palau,266,oc
+230,Papua New Guinea,253843,oc
+231,Tokelau,35,oc
+232,Tonga,2449,oc
+233,Tuvalu,261,oc
+234,Wallis and Futuna Islands,132,oc
+235,Samoa,6023,oc
